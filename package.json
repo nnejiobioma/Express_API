@@ -1,0 +1,26 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "Creating API with node eexpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnejiobioma/Express_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnejiobioma/Express_API/issues"
+  },
+  "homepage": "https://github.com/nnejiobioma/Express_API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  }
+}
